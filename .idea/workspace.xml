@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a77a9dfa-719f-4de6-8a3f-4e5b9570b45a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/Store/reducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Store/store.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Types/Types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/api.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Auth/Auth.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Auth/AuthContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/useTypedSelector.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1whzIwOqsRfjH77mHigHl4VhLdG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../React/first/react-first" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Maskim\Desktop\work\Fullstack\table\client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a77a9dfa-719f-4de6-8a3f-4e5b9570b45a" name="Default Changelist" comment="" />
+      <created>1628925532385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628925532385</updated>
+      <workItem from="1628925534337" duration="11099000" />
+      <workItem from="1629460259631" duration="31000" />
+      <workItem from="1630951658389" duration="5281000" />
+      <workItem from="1631123195205" duration="115000" />
+      <workItem from="1631123320171" duration="11508000" />
+      <workItem from="1631284457906" duration="76617000" />
+      <workItem from="1631703510317" duration="14433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631207899624">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="222" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1631207899624" />
+    <state x="536" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631446961362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="536" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1631446961362" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1631286008760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1631286008760" />
+    <state x="348" y="159" key="IDE.errors.dialog" timestamp="1631123246819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="348" y="159" key="IDE.errors.dialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1631123246819" />
+    <state x="-1186" y="177" key="RollbackChangesDialog" timestamp="1631726551131">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1186" y="177" key="RollbackChangesDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1631726551131" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1631394547815">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1631394547815" />
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1631207915379">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1631207915379" />
+  </component>
+</project>

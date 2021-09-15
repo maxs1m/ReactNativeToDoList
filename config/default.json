@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "maxim",
+  "mongoUri": "mongodb+srv://Maksim:123qwe123@cluster0.3onm0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
